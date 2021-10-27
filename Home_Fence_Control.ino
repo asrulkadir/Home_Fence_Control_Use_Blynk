@@ -21,10 +21,10 @@ const String password = "1234";
 const String password2 = "4321";
 String input_password;
 
-char auth[] = "sRIte5HM0f0B2AR5vvglH1iYpDPc19T7";
+char auth[] = ""; // auth token
 
-char ssid[] = "Asrul K";
-char pass[] = "12345678";
+char ssid[] = "user";
+char pass[] = "password";
 
 const int m1 = 15;
 const int m2 = 2;
